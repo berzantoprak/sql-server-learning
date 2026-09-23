@@ -1,0 +1,1 @@
+SELECT * FROM BaharTablo WHERE OgrenciNo in (165,2334)

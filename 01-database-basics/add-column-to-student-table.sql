@@ -1,0 +1,1 @@
+ALTER TABLE Ogrenci ADD SýnavNotu3 tinyint DEFAULT 0

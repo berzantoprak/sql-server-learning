@@ -1,0 +1,1 @@
+SELECT * FROM BaharTablo WHERE Ad like 'ber%'
