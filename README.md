@@ -21,8 +21,8 @@ This repository is organized by topic and includes practical examples covering d
 | Joins | JOIN, INNER JOIN |
 | Aggregation | GROUP BY |
 | Subqueries | Nested queries |
-| Constraints & Identity | FOREIGN KEY, IDENTITY |
-| T-SQL Programming | DECLARE, variables |
+| Constraints & Identity | FOREIGN KEY, IDENTITY, relationships between tables |
+| T-SQL Programming | DECLARE, variables, variable assignment, IF...ELSE |
 | Stored Procedures | Procedure creation and usage |
 | Triggers | Trigger basics and examples |
 | Transactions | Transaction management |
